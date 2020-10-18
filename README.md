@@ -1,4 +1,4 @@
-# flask_crud_uisng_MySQL
+# flask_crud_using_MySQL
 ###### This web application is built using the Python Flask framework, HTML+CSS, JQuery and MySQL database.
 
 ###### To run this code, you must have the following installed on your computer:
